@@ -456,6 +456,12 @@
         "states": "Europa Island"
     },
     {
+        "name": "Eswatini",
+        "code": "SZ",
+        "group": "secondary",
+        "states": "Hhohho|Lubombo|Manzini|Shiselweni"
+    },    
+    {
         "name": "Falkland Islands ( IslasMalvinas)",
         "code": "FK",
         "group": "secondary",
@@ -1360,12 +1366,6 @@
         "code": "SJ",
         "group": "secondary",
         "states": "Barentsoya|Bjornoya|Edgeoya|Hopen|Kvitoya|Nordaustandet|Prins Karls Forland|Spitsbergen"
-    },
-    {
-        "name": "Swaziland",
-        "code": "SZ",
-        "group": "secondary",
-        "states": "Hhohho|Lubombo|Manzini|Shiselweni"
     },
     {
         "name": "Sweden",
